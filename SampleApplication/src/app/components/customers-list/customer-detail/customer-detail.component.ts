@@ -25,7 +25,6 @@ export class CustomerDetailComponent implements AfterViewInit {
 
   onCustomerLoaded(customer: Customer): void {
     this.selectedCustomer = customer;
-    this.routing.navigate()
   }
 
 }
