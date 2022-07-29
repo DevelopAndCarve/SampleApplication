@@ -1,0 +1,15 @@
+[{
+  "Id":1,
+  "Description":"IPhone 13",
+  "Price": 988
+},
+{
+  "Id":2,
+  "Description":"IPhone charger",
+  "Price": 13.5
+},
+{
+  "Id":3,
+  "Description":"Cover Gray Iphone 13",
+  "Price": 5.5
+}]

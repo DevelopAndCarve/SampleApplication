@@ -1,0 +1,22 @@
+[
+  {
+    "Id": 1,
+    "CustomerId": 1,
+    "OrderRows": [
+      {
+        "Id": 1,
+        "OrderId": 1,
+        "ProductId": 2,
+        "ProductPrice": 13.5,
+        "Quantity": 1
+      },
+      {
+        "Id": 1,
+        "OrderId": 1,
+        "ProductId": 3,
+        "ProductPrice": 5.5,
+        "Quantity": 1
+      }
+    ]
+  }
+]
