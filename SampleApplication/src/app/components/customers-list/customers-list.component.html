@@ -1,1 +1,7 @@
-<div></div>
+<div>
+    <h1>Customers</h1>
+
+    <ul>
+        <li *ngFor="let customer of customers | async"><a routerLink="/customer/{{customer.Id}}">{{customer.Surname}} {{customer.Name}}</a></li>
+    </ul>
+</div>
